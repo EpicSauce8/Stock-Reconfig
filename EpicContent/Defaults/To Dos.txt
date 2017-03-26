@@ -1,0 +1,7 @@
+Add cfg modifier to change fairing defaults to clamshell.
+
+Add cfg modifier to reversable engines to auto add to brakes action group.
+
+Create near future realplume cfgs.
+
+Create add lockable docking port module requiring EVA'd Engineer. Unlocks after an engineering tech node. (probably going to be a script and a cfg)
